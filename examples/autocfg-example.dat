@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "autocfg awesome bash script"
+exit 0

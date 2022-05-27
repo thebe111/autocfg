@@ -1,0 +1,1 @@
+autocfg awesome documentation
